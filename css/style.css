@@ -20,36 +20,31 @@ background-color:#f1f1f1;
 
 }
 
-@media(max-width:768px){
+@media(max-width:780px){
 
 .image-content p{
-   padding: 32px 0px;
-font-size: 16px;
-margin: auto;
-font-family: raleway;
-line-height: 20px;
+    padding: 0px 0px;
+    font-size: 16px;
+    margin: auto;
+    font-family: raleway;
+	
 
 }
-
-
-
-
 }
-
-
-
 @media(max-width:480px){
 
 .image-content p{
-   padding: 32px 0px;
-font-size: 12px;
-margin: auto;
-font-family: raleway;
-line-height: 16px;
+    padding: 0px 0px;
+    font-size: 16px;
+    margin: auto;
+    font-family: raleway;
+	
 
 }
 
 
 
 
+
 }
+
