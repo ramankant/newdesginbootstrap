@@ -1,0 +1,55 @@
+/* CSS Document */
+
+.lowest-price{
+padding:2px 0px;
+background-color:#FFFFFF;
+margin:20px 0px;
+
+}
+.image-content p{
+    padding: 202px 0px;
+    font-size: 36px;
+    margin: auto;
+    font-family: raleway;
+	
+
+}
+body {
+background-color:#f1f1f1;
+
+
+}
+
+@media(max-width:768px){
+
+.image-content p{
+   padding: 32px 0px;
+font-size: 16px;
+margin: auto;
+font-family: raleway;
+line-height: 20px;
+
+}
+
+
+
+
+}
+
+
+
+@media(max-width:480px){
+
+.image-content p{
+   padding: 32px 0px;
+font-size: 12px;
+margin: auto;
+font-family: raleway;
+line-height: 16px;
+
+}
+
+
+
+
+}
