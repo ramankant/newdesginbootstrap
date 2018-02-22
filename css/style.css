@@ -6,13 +6,13 @@ background-color:#FFFFFF;
 margin:20px 0px;
 
 }
+.image-content {
+padding:15px 0px;
+}
 .image-content p{
-    padding: 202px 0px;
-    font-size: 36px;
+    font-size: 25px;
     margin: auto;
     font-family: raleway;
-	
-
 }
 body {
 background-color:#f1f1f1;
